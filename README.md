@@ -15,7 +15,7 @@ Queue.prototype.peek();
 ```
 Returns head's value without popping it from the queue.
 
-## Example
+### Example
 ```js
 const Queue = require('native-queue-nan');
 
