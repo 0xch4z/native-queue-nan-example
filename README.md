@@ -2,6 +2,9 @@
 <p align="center">A C++ queue abstraction for nodejs</p>
 
 ### API Usage
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Charliekenney23/native-queue-nan-example.svg)](https://greenkeeper.io/)
+
 ```js
 Queue.prototype.enqueue(n)
 ```
